@@ -39,7 +39,7 @@
   ],
   "dependencies": {
     "angular": "1.x",
-    "chart.js": "https://github.com/popenkomaksim/Chart.js.git"
+    "chart.js": "git://github.com/popenkomaksim/Chart.js.git"
   },
   "overrides" : {
     "chart.js": {
